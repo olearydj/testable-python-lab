@@ -1,0 +1,7 @@
+[project]
+name = "testable-python-lab"
+version = "0.1.0"
+description = "INSY 7970 lab repo for moving from a script to testable Python."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
